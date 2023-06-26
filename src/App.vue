@@ -1,11 +1,9 @@
 <script setup>
-
+ 
 </script>
 
 <template>
-
-    <el-button type="primary">123</el-button>
-
+    <router-view></router-view>
 </template>
 
 <style scoped>
